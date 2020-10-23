@@ -18,11 +18,11 @@ namespace exercicio211
             HashSet<LogRecord> set = new HashSet<LogRecord>();
 
             //Windows
-            string path = @"C:\Users\apagar\Projects\exercicio211\file.txt";
+            //string path = @"C:\Users\apagar\Projects\exercicio211\file.txt";
 
             //macOS
-            //string path = "/Users/nxgames/Projects/exercicio211/exercicio211/file.txt";
-            
+            string path = "/Users/pauloeduardo/Projects/HashSet/file.txt";
+
             Console.WriteLine("Full path: " + path);
             
             try
