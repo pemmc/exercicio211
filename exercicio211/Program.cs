@@ -20,8 +20,11 @@ namespace exercicio211
             //Windows
             //string path = @"C:\Users\apagar\Projects\exercicio211\file.txt";
 
-            //macOS
-            string path = "/Users/pauloeduardo/Projects/HashSet/file.txt";
+            //macOS note
+            //string path = "/Users/pauloeduardo/Projects/HashSet/file.txt";
+
+            //macOS PC
+            string path = "/Users/nxgames/Projects/exercicio211/exercicio211/file.txt";
 
             Console.WriteLine("Full path: " + path);
             
